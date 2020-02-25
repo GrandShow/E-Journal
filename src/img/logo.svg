@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="81mm" height="13.5mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8100 1350"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:20;stroke-miterlimit:22.9256}
+    .str2 {stroke:#00CEFF;stroke-width:20;stroke-miterlimit:22.9256}
+    .str1 {stroke:#BC179C;stroke-width:20;stroke-miterlimit:22.9256}
+    .str3 {stroke:white;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+    .fil2 {fill:#00CEFF}
+    .fil1 {fill:#BC179C}
+    .fil10 {fill:url(#id0)}
+    .fil9 {fill:url(#id1)}
+    .fil4 {fill:url(#id2)}
+    .fil19 {fill:url(#id3)}
+    .fil7 {fill:url(#id4)}
+    .fil6 {fill:url(#id5)}
+    .fil12 {fill:url(#id6)}
+    .fil5 {fill:url(#id7)}
+    .fil11 {fill:url(#id8)}
+    .fil15 {fill:url(#id9)}
+    .fil17 {fill:url(#id10)}
+    .fil16 {fill:url(#id11)}
+    .fil18 {fill:url(#id12)}
+    .fil13 {fill:url(#id13)}
+    .fil20 {fill:url(#id14)}
+    .fil8 {fill:url(#id15)}
+    .fil14 {fill:url(#id16)}
+    .fil3 {fill:url(#id17)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="objectBoundingBox" x1="0%" y1="67.518%" x2="1947.35%" y2="0%">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="0%" y1="90.135%" x2="2373.25%" y2="3.86289%">
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="0%" y1="136.283%" x2="1170.26%" y2="0%">
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="0%" y1="284.414%" x2="1257.85%" y2="0%">
+  </linearGradient>
+  <linearGradient id="id4" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="213.99" y1="990.56" x2="8060.97" y2="104.14">
+  </linearGradient>
+  <linearGradient id="id5" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="0%" y1="44.574%" x2="3467.83%" y2="0%">
+  </linearGradient>
+  <linearGradient id="id6" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="0%" y1="248.145%" x2="587.402%" y2="0%">
+  </linearGradient>
+  <linearGradient id="id7" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="0%" y1="433.724%" x2="947.531%" y2="0%">
+  </linearGradient>
+  <linearGradient id="id8" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="0%" y1="419.026%" x2="603.956%" y2="17.003%">
+  </linearGradient>
+  <linearGradient id="id9" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="0%" y1="412.269%" x2="593.242%" y2="2.04091%">
+  </linearGradient>
+  <linearGradient id="id10" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="0%" y1="307.086%" x2="3492.44%" y2="0%">
+  </linearGradient>
+  <linearGradient id="id11" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="0%" y1="448.39%" x2="1006.7%" y2="6.5939%">
+  </linearGradient>
+  <linearGradient id="id12" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="0%" y1="136.283%" x2="939.85%" y2="0%">
+  </linearGradient>
+  <linearGradient id="id13" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="0%" y1="251.947%" x2="802.544%" y2="0%">
+  </linearGradient>
+  <linearGradient id="id14" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="3618.13" y1="990.56" x2="-4228.85" y2="104.14">
+  </linearGradient>
+  <linearGradient id="id15" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="0%" y1="107.659%" x2="3203.68%" y2="1.5832%">
+  </linearGradient>
+  <linearGradient id="id16" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="0%" y1="131.985%" x2="641.001%" y2="0%">
+  </linearGradient>
+  <linearGradient id="id17" gradientUnits="objectBoundingBox" xlink:href="#id0" x1="15.7122%" y1="108.208%" x2="1411.38%" y2="1.85254%">
+  </linearGradient>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2497992061792">
+   <rect class="fil0 str0" x="6207.9" y="44.53" width="169.77" height="1031.88"/>
+   <rect class="fil0 str0" x="7444.83" y="339.97" width="253.56" height="701.15"/>
+   <rect class="fil0 str0" x="7167.02" y="35.71" width="806.98" height="251.36"/>
+   <rect class="fil0 str0" x="6869.35" y="730.25" width="167.57" height="352.78"/>
+   <polygon class="fil0 str0" points="6428.38,42.32 7052.37,42.32 6935.51,271.63 6428.38,271.63 "/>
+   <polygon class="fil0 str0" points="6426.18,388.49 6884.79,388.49 7058.98,626.62 6426.18,626.62 "/>
+   <rect class="fil0 str0" x="5793.38" y="745.68" width="160.95" height="244.74"/>
+   <polygon class="fil0 str0" points="5954.33,278.25 5586.12,278.25 5647.86,46.73 5954.33,46.73 "/>
+   <polygon class="fil0 str0" points="5954.33,650.87 5486.91,650.87 5561.87,417.15 5954.33,417.15 "/>
+   <polygon class="fil0 str0" points="5107.67,988.22 5297.28,988.22 5592.73,44.53 5427.37,44.53 "/>
+   <rect class="fil1 str1" x="6207.9" y="44.53" width="169.77" height="1031.88"/>
+   <rect class="fil1 str1" x="7444.83" y="339.97" width="253.56" height="701.15"/>
+   <rect class="fil1 str1" x="7167.02" y="35.71" width="806.98" height="251.36"/>
+   <rect class="fil1 str1" x="6869.35" y="730.25" width="167.57" height="352.78"/>
+   <polygon class="fil1 str1" points="6428.38,42.32 7052.37,42.32 6935.51,271.63 6428.38,271.63 "/>
+   <polygon class="fil1 str1" points="6426.18,388.49 6884.79,388.49 7058.98,626.62 6426.18,626.62 "/>
+   <rect class="fil1 str1" x="5793.38" y="745.68" width="160.95" height="244.74"/>
+   <polygon class="fil1 str1" points="5954.33,278.25 5586.12,278.25 5647.86,46.73 5954.33,46.73 "/>
+   <polygon class="fil1 str1" points="5954.33,650.87 5486.91,650.87 5561.87,417.15 5954.33,417.15 "/>
+   <polygon class="fil1 str1" points="5107.67,988.22 5297.28,988.22 5592.73,44.53 5427.37,44.53 "/>
+  </g>
+  <g id="_2499527906368">
+   <polygon class="fil0 str0" points="651.6,893.41 435.53,893.41 89.36,62.17 305.44,59.96 "/>
+   <polygon class="fil0 str0" points="644.99,721.43 717.75,893.41 1275.59,897.82 1108.01,723.63 "/>
+   <polygon class="fil0 str0" points="378.2,84.22 457.58,282.66 1068.33,284.86 1185.19,82.01 "/>
+   <polygon class="fil0 str0" points="1604.11,1195.47 1601.91,772.14 1784.91,772.14 1787.12,1197.68 "/>
+   <polygon class="fil1 str1" points="1372.6,35.71 1652.62,379.67 1652.62,723.63 1372.6,417.15 "/>
+   <rect class="fil0 str0" x="2161.95" y="62.16" width="183" height="835.65"/>
+   <rect class="fil0 str0" x="4100.02" y="35.71" width="165.37" height="1027.47"/>
+   <rect class="fil0 str0" x="4761.49" y="723.63" width="167.57" height="352.78"/>
+   <polygon class="fil0 str0" points="4322.73,37.91 4935.68,37.91 4825.44,258.4 4322.73,258.4 "/>
+   <polygon class="fil0 str0" points="4320.52,381.88 4770.32,381.88 4951.12,615.59 4320.52,615.59 "/>
+   <polygon class="fil0 str0" points="3176.19,384.08 3780.33,384.08 3639.21,613.39 3176.19,613.39 "/>
+   <polygon class="fil0 str0" points="3348.17,679.53 3980.97,679.53 3857.5,893.41 3233.52,893.41 "/>
+   <polygon class="fil0 str0" points="3185.01,70.99 3773.71,70.99 4000.81,287.07 3185.01,287.07 "/>
+   <polygon class="fil0 str0" points="2618.36,62.17 2946.88,62.17 2812.38,262.81 2386.85,262.81 "/>
+   <polygon class="fil0 str0" points="2865.3,573.7 3013.03,573.7 2865.3,386.28 "/>
+   <rect class="fil0 str0" x="2408.89" y="721.42" width="597.52" height="176.39"/>
+   <polygon class="fil0 str0" points="2816.79,571.49 2367,571.49 2461.81,359.83 2816.79,359.83 "/>
+   <polygon class="fil1 str1" points="651.6,893.41 435.53,893.41 89.36,62.17 305.44,59.96 "/>
+   <polygon class="fil1 str1" points="644.99,721.43 717.75,893.41 1275.59,897.82 1108.01,723.63 "/>
+   <polygon class="fil1 str1" points="378.2,84.22 457.58,282.66 1068.33,284.86 1185.19,82.01 "/>
+   <polygon class="fil1 str1" points="1604.11,1195.47 1601.91,772.14 1784.91,772.14 1787.12,1197.68 "/>
+   <polygon class="fil1 str1" points="2019.78,35.71 1739.76,379.67 1739.76,723.63 2019.78,417.15 "/>
+   <rect class="fil1 str1" x="2161.95" y="62.16" width="183" height="835.65"/>
+   <rect class="fil1 str1" x="4100.02" y="35.71" width="165.37" height="1027.47"/>
+   <rect class="fil1 str1" x="4761.49" y="723.63" width="167.57" height="352.78"/>
+   <polygon class="fil1 str1" points="4322.73,37.91 4935.68,37.91 4825.44,258.4 4322.73,258.4 "/>
+   <polygon class="fil1 str1" points="4320.52,381.88 4770.32,381.88 4951.12,615.59 4320.52,615.59 "/>
+   <polygon class="fil1 str1" points="3176.19,384.08 3780.33,384.08 3639.21,613.39 3176.19,613.39 "/>
+   <polygon class="fil1 str1" points="3348.17,679.53 3980.97,679.53 3857.5,893.41 3233.52,893.41 "/>
+   <polygon class="fil1 str1" points="3185.01,70.99 3773.71,70.99 4000.81,287.07 3185.01,287.07 "/>
+   <polygon class="fil1 str1" points="2618.36,62.17 2946.88,62.17 2812.38,262.81 2386.85,262.81 "/>
+   <polygon class="fil1 str1" points="2865.3,573.7 3013.03,573.7 2865.3,386.28 "/>
+   <rect class="fil1 str1" x="2408.89" y="721.42" width="597.52" height="176.39"/>
+   <polygon class="fil1 str1" points="2816.79,571.49 2367,571.49 2461.81,359.83 2816.79,359.83 "/>
+  </g>
+  <g id="_2497997675488">
+   <rect class="fil0 str0" x="6248.73" y="85.33" width="169.77" height="1031.88"/>
+   <rect class="fil0 str0" x="7485.66" y="380.77" width="253.56" height="701.15"/>
+   <rect class="fil0 str0" x="7207.85" y="76.51" width="806.98" height="251.36"/>
+   <rect class="fil0 str0" x="6910.18" y="771.05" width="167.57" height="352.78"/>
+   <polygon class="fil0 str0" points="6469.21,83.12 7093.2,83.12 6976.34,312.43 6469.21,312.43 "/>
+   <polygon class="fil0 str0" points="6467.01,429.29 6925.62,429.29 7099.81,667.42 6467.01,667.42 "/>
+   <rect class="fil0 str0" x="5834.2" y="786.48" width="160.95" height="244.74"/>
+   <polygon class="fil0 str0" points="5995.16,319.05 5626.95,319.05 5688.69,87.53 5995.16,87.53 "/>
+   <polygon class="fil0 str0" points="5995.16,691.67 5527.74,691.67 5602.7,457.95 5995.16,457.95 "/>
+   <polygon class="fil0 str0" points="5148.5,1029.02 5338.11,1029.02 5633.56,85.33 5468.2,85.33 "/>
+   <rect class="fil2 str2" x="6248.73" y="85.33" width="169.77" height="1031.88"/>
+   <rect class="fil2 str2" x="7485.66" y="380.77" width="253.56" height="701.15"/>
+   <rect class="fil2 str2" x="7207.85" y="76.51" width="806.98" height="251.36"/>
+   <rect class="fil2 str2" x="6910.18" y="771.05" width="167.57" height="352.78"/>
+   <polygon class="fil2 str2" points="6469.21,83.12 7093.2,83.12 6976.34,312.43 6469.21,312.43 "/>
+   <polygon class="fil2 str2" points="6467.01,429.29 6925.62,429.29 7099.81,667.42 6467.01,667.42 "/>
+   <rect class="fil2 str2" x="5834.2" y="786.48" width="160.95" height="244.74"/>
+   <polygon class="fil2 str2" points="5995.16,319.05 5626.95,319.05 5688.69,87.53 5995.16,87.53 "/>
+   <polygon class="fil2 str2" points="5995.16,691.67 5527.74,691.67 5602.7,457.95 5995.16,457.95 "/>
+   <polygon class="fil2 str2" points="5148.5,1029.02 5338.11,1029.02 5633.56,85.33 5468.2,85.33 "/>
+  </g>
+  <g id="_2498009130192">
+   <polygon class="fil0 str0" points="746.43,1011.36 530.36,1011.36 184.19,180.12 400.27,177.91 "/>
+   <polygon class="fil0 str0" points="739.82,839.38 812.58,1011.36 1370.42,1015.77 1202.84,841.58 "/>
+   <polygon class="fil0 str0" points="473.03,202.17 552.41,400.61 1163.16,402.81 1280.02,199.96 "/>
+   <polygon class="fil0 str0" points="1698.94,1313.42 1696.74,890.09 1879.74,890.09 1881.95,1315.63 "/>
+   <polygon class="fil2 str2" points="1467.43,153.66 1747.45,497.62 1747.45,841.58 1467.43,535.1 "/>
+   <rect class="fil0 str0" x="2256.78" y="180.12" width="183" height="835.65"/>
+   <rect class="fil0 str0" x="4194.85" y="153.65" width="165.37" height="1027.47"/>
+   <rect class="fil0 str0" x="4856.32" y="841.58" width="167.57" height="352.78"/>
+   <polygon class="fil0 str0" points="4417.56,155.86 5030.51,155.86 4920.27,376.35 4417.56,376.35 "/>
+   <polygon class="fil0 str0" points="4415.35,499.83 4865.15,499.83 5045.95,733.54 4415.35,733.54 "/>
+   <polygon class="fil0 str0" points="3271.02,502.03 3875.16,502.03 3734.04,731.34 3271.02,731.34 "/>
+   <polygon class="fil0 str0" points="3443,797.48 4075.8,797.48 3952.33,1011.36 3328.35,1011.36 "/>
+   <polygon class="fil0 str0" points="3279.84,188.94 3868.54,188.94 4095.64,405.02 3279.84,405.02 "/>
+   <polygon class="fil0 str0" points="2713.19,180.12 3041.71,180.12 2907.21,380.76 2481.68,380.76 "/>
+   <polygon class="fil0 str0" points="2960.13,691.65 3107.86,691.65 2960.13,504.23 "/>
+   <rect class="fil0 str0" x="2503.72" y="839.38" width="597.52" height="176.39"/>
+   <polygon class="fil0 str0" points="2911.62,689.44 2461.83,689.44 2556.64,477.78 2911.62,477.78 "/>
+   <polygon class="fil2 str2" points="746.43,1011.36 530.36,1011.36 184.19,180.12 400.27,177.91 "/>
+   <polygon class="fil2 str2" points="739.82,839.38 812.58,1011.36 1370.42,1015.77 1202.84,841.58 "/>
+   <polygon class="fil2 str2" points="473.03,202.17 552.41,400.61 1163.16,402.81 1280.02,199.96 "/>
+   <polygon class="fil2 str2" points="1698.94,1313.42 1696.74,890.09 1879.74,890.09 1881.95,1315.63 "/>
+   <polygon class="fil2 str2" points="2114.61,153.66 1834.59,497.62 1834.59,841.58 2114.61,535.1 "/>
+   <rect class="fil2 str2" x="2256.78" y="180.12" width="183" height="835.65"/>
+   <rect class="fil2 str2" x="4194.85" y="153.65" width="165.37" height="1027.47"/>
+   <rect class="fil2 str2" x="4856.32" y="841.58" width="167.57" height="352.78"/>
+   <polygon class="fil2 str2" points="4417.56,155.86 5030.51,155.86 4920.27,376.35 4417.56,376.35 "/>
+   <polygon class="fil2 str2" points="4415.35,499.83 4865.15,499.83 5045.95,733.54 4415.35,733.54 "/>
+   <polygon class="fil2 str2" points="3271.02,502.03 3875.16,502.03 3734.04,731.34 3271.02,731.34 "/>
+   <polygon class="fil2 str2" points="3443,797.48 4075.8,797.48 3952.33,1011.36 3328.35,1011.36 "/>
+   <polygon class="fil2 str2" points="3279.84,188.94 3868.54,188.94 4095.64,405.02 3279.84,405.02 "/>
+   <polygon class="fil2 str2" points="2713.19,180.12 3041.71,180.12 2907.21,380.76 2481.68,380.76 "/>
+   <polygon class="fil2 str2" points="2960.13,691.65 3107.86,691.65 2960.13,504.23 "/>
+   <rect class="fil2 str2" x="2503.72" y="839.38" width="597.52" height="176.39"/>
+   <polygon class="fil2 str2" points="2911.62,689.44 2461.83,689.44 2556.64,477.78 2911.62,477.78 "/>
+  </g>
+  <g id="_2498009135472">
+   <polygon class="fil3 str0" points="687.89,922.15 471.82,922.15 125.65,90.91 341.73,88.7 "/>
+   <polygon class="fil4 str0" points="681.28,750.17 754.04,922.15 1311.88,926.56 1144.3,752.37 "/>
+   <polygon class="fil5 str0" points="414.49,112.96 493.87,311.4 1104.62,313.6 1221.48,110.75 "/>
+   <polygon class="fil6 str0" points="1640.4,1224.21 1638.2,800.88 1821.2,800.88 1823.41,1226.42 "/>
+   <polygon class="fil7 str3" points="1408.89,64.45 1688.91,408.41 1688.91,752.37 1408.89,445.89 "/>
+   <rect class="fil8 str0" x="2198.24" y="90.9" width="183" height="835.65"/>
+   <rect class="fil9 str0" x="4136.31" y="64.44" width="165.37" height="1027.47"/>
+   <rect class="fil10 str0" x="4797.78" y="752.37" width="167.57" height="352.78"/>
+   <polygon class="fil11 str0" points="4359.02,66.65 4971.97,66.65 4861.73,287.14 4359.02,287.14 "/>
+   <polygon class="fil12 str0" points="4356.81,410.62 4806.61,410.62 4987.41,644.33 4356.81,644.33 "/>
+   <polygon class="fil13 str0" points="3212.48,412.82 3816.62,412.82 3675.5,642.13 3212.48,642.13 "/>
+   <polygon class="fil14 str0" points="3384.46,708.27 4017.26,708.27 3893.79,922.15 3269.81,922.15 "/>
+   <polygon class="fil15 str0" points="3221.3,99.73 3810,99.73 4037.1,315.81 3221.3,315.81 "/>
+   <polygon class="fil16 str0" points="2654.65,90.91 2983.17,90.91 2848.67,291.55 2423.14,291.55 "/>
+   <polygon class="fil17 str0" points="2901.59,602.44 3049.32,602.44 2901.59,415.02 "/>
+   <rect class="fil18 str0" x="2445.18" y="750.16" width="597.52" height="176.39"/>
+   <polygon class="fil19 str0" points="2853.08,600.23 2403.29,600.23 2498.1,388.57 2853.08,388.57 "/>
+   <polygon class="fil3 str3" points="687.89,922.15 471.82,922.15 125.65,90.91 341.73,88.7 "/>
+   <polygon class="fil4 str3" points="681.28,750.17 754.04,922.15 1311.88,926.56 1144.3,752.37 "/>
+   <polygon class="fil5 str3" points="414.49,112.96 493.87,311.4 1104.62,313.6 1221.48,110.75 "/>
+   <polygon class="fil6 str3" points="1640.4,1224.21 1638.2,800.88 1821.2,800.88 1823.41,1226.42 "/>
+   <polygon class="fil20 str3" points="2056.07,64.45 1776.05,408.41 1776.05,752.37 2056.07,445.89 "/>
+   <rect class="fil8 str3" x="2198.24" y="90.9" width="183" height="835.65"/>
+   <rect class="fil9 str3" x="4136.31" y="64.44" width="165.37" height="1027.47"/>
+   <rect class="fil10 str3" x="4797.78" y="752.37" width="167.57" height="352.78"/>
+   <polygon class="fil11 str3" points="4359.02,66.65 4971.97,66.65 4861.73,287.14 4359.02,287.14 "/>
+   <polygon class="fil12 str3" points="4356.81,410.62 4806.61,410.62 4987.41,644.33 4356.81,644.33 "/>
+   <polygon class="fil13 str3" points="3212.48,412.82 3816.62,412.82 3675.5,642.13 3212.48,642.13 "/>
+   <polygon class="fil14 str3" points="3384.46,708.27 4017.26,708.27 3893.79,922.15 3269.81,922.15 "/>
+   <polygon class="fil15 str3" points="3221.3,99.73 3810,99.73 4037.1,315.81 3221.3,315.81 "/>
+   <polygon class="fil16 str3" points="2654.65,90.91 2983.17,90.91 2848.67,291.55 2423.14,291.55 "/>
+   <polygon class="fil17 str3" points="2901.59,602.44 3049.32,602.44 2901.59,415.02 "/>
+   <rect class="fil18 str3" x="2445.18" y="750.16" width="597.52" height="176.39"/>
+   <polygon class="fil19 str3" points="2853.08,600.23 2403.29,600.23 2498.1,388.57 2853.08,388.57 "/>
+  </g>
+ </g>
+</svg>
