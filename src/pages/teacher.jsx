@@ -1,5 +1,4 @@
 import React, {Component} from 'react'
-import 'bootstrap/dist/css/bootstrap.min.css'
 import bgimg from '../img/OMK.svg'
 import Logo from '../parts/logo.jsx'
 class TeacherPage extends Component {
