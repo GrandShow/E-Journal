@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import StudentPage from './pages/student'
+import TeacherPage from './pages/teacher'
 import * as serviceWorker from './serviceWorker'
 import { BrowserRouter as Router } from "react-router-dom"
 import 'bootstrap/dist/css/bootstrap.min.css'
@@ -9,7 +9,7 @@ import 'bootstrap/dist/js/bootstrap.min.js'
 
 ReactDOM.render(
     <Router>
-        <StudentPage />
+        <TeacherPage />
     </Router>, 
     document.getElementById('root')
 );

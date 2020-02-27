@@ -1,24 +1,22 @@
 import React, {Component} from 'react'
-import bgimg from '../img/OMK.svg'
+import bgimg from '../img/background.svg'
+import TeacherHeader from '../parts/teacherHeader'
 import Logo from '../parts/logo.jsx'
 class DirectorPage extends Component {
-
-    constructor(props) {
-        super(props)
-        this.state = { screenWidth: window.screen.availWidth + 'px'}
-      }
-
     render() {
         return (
             <div style={bgimgStyle} className="container-fluid">
+                <TeacherHeader />
                 <Logo />
             </div>
         )
     }}
 const bgimgStyle = {
     background: 'url('+ bgimg +') no-repeat right fixed',
-    backgroundSize: 'auto 95%',
+    backgroundSize: 'auto 100%',
     width: '100%',
     height: '100%',
+    padding: '0px',
+    fontSize: '3em', 
 }
     export default DirectorPage

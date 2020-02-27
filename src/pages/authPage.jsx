@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import bgimg from '../img/background.svg'
+import bgimg from '../img/bgsignin.svg'
 import personsImg from '../img/persons.svg'
 import Logo from '../parts/logo.jsx'
 class AuthPage extends Component {
