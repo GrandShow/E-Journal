@@ -6,7 +6,7 @@ class Logo extends Component {
     render() {
         return (
             <div className="row">
-                <div className="col-xl-2 col-md-3 col-sm-5 col-6" id="bigLogo" style={logoStyle}>
+                <div className="col-xl-2 col-md-3 col-sm-4 col-6" id="bigLogo" style={logoStyle}>
                     <a href="#" title='Visit Creator`s site'><img src={logoimg} style={logoImgStyle} alt='Visit Creator`s site' /></a>
                 </div>
             </div>
