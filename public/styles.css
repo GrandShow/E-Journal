@@ -6,6 +6,7 @@
 html, body, #root {
     width: 100%;
     height: 100%;
+    overflow-x: hidden;
 }
 @media screen and (max-width: 420px) {
     #bigLogo {
@@ -42,8 +43,8 @@ html, body, #root {
         font-size: 0.8em;
     }
 }
-@media screen and (min-width: 1921px) {
-    * {
-        font-size: 1.1em;
+@media screen and (min-width: 825px) and (max-width: 1440px) {
+    .errImg {
+        width: 90%!important;
     }
 }

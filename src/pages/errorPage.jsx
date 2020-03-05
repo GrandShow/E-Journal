@@ -1,4 +1,5 @@
 import React, {Component} from 'react'
+import {Fade, Zoom} from 'react-reveal'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import bgimg from '../img/error/gargantuabg.svg'
 import deadman from '../img/error/deadman.svg'
@@ -8,24 +9,28 @@ import Logo from '../parts/logo.jsx'
 class ErrorPage extends Component {
     render() {
         return (
-            <div style={bgimgStyle} className="container-fluid">
-                <div className="row">
-                    <div className="col-md-10 col-lg-8 col-xl-7 position-absolute fixed-bottom" style={message}>
-                        <img src={junks} alt="junks" id="parts" style={imgStyle} />
+            <Zoom>
+                <div style={bgimgStyle}>
+                    <div style={message}>
+                            <div>
+                                <h2>Вітаємо, ви дійшли до кінця Інтернету</h2>
+                                <h4>Пройшовши довгий шлях в пошуках вашого запиту ви нічого не знайшли. Радимо вам повернутися на 
+                                    <span style={{cursor:"pointer",textDecoration:"underline"}}>початок</span> 
+                                ваших пригод.
+                                </h4>
+                            </div>
                     </div>
-                    <div className="col-md-10 col-lg-8 col-xl-7 position-absolute fixed-bottom" style={message}>
-                        <img src={deadman} alt="man" id="parts" style={imgStyle}/>
-                    </div>
-                    <div className="col-md-10 col-lg-8 col-xl-7 position-absolute fixed-bottom" style={message}>
-                        <img src={junk} alt="junk" id="parts" style={imgStyle}/>
-                    </div>
-                    <div className="col-10 col-sm-8 col-md-6 col-xl-6 offset-1 fixed-top" style={message}>
-                        <div className="row"> <h3>Вітаємо, ви дійшли до кінця Інтернету</h3></div>
-                        <div className="row"> <h6>Пройшовши довгий шлях в пошуках вашого запиту ви нічого не знайшли. Радимо вам повернутися на <span style={{cursor:"pointer",textDecoration:"underline"}}>початок</span> ваших пригод.</h6></div>
-                    </div>
+                    <Fade right cascade>
+                        <div>
+                            <img class="errImg" src={junks} alt="junks" id="parts" style={imgStyle} />
+                            <img class="errImg" src={deadman} alt="man" id="parts" style={imgStyle}/>
+                            <img class="errImg" src={junk} alt="junk" id="parts" style={imgStyle}/>
+                        </div>
+                    </Fade>
+
+                    <Logo />
                 </div>
-                <Logo />
-            </div>
+            </Zoom>
         )
     }}
 const bgimgStyle = {
@@ -33,15 +38,16 @@ const bgimgStyle = {
     backgroundSize: 'cover',
     boxShadow: 'inset 0 0 50px #000',
     width: '100%',
-    height: '100%'
+    height: '100%',
 }
 const message = {
     color: 'white',
-    paddingTop: '50px',
+    margin: '50px',
+    position: 'absolute',
 }
 const imgStyle = {
-    width: '100%',
-    padding: '10px',
-
+    width: '60%',
+    marginTop: '50px',
+    position: 'absolute',
 }
     export default ErrorPage
